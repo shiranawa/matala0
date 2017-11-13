@@ -85,7 +85,9 @@ public class Reader_Writer {
 			e.printStackTrace();
 		}
 	}
-
+     /***
+      * 
+      */
 	static void writeFileKML(List<Row> rows, Path theFile) //builder for kml files
 	{
 		try {
@@ -209,5 +211,10 @@ public class Reader_Writer {
  *שירן אבסקר ו201299591
  *יונתן רופסוב 314471970
  * 
+ * 
+ * 
+ * הסבר קצר לכל חלק 
+ * java doc 
+ * לפצל לפונקציות ולא במיין ראשי אחד 
  * */
 
