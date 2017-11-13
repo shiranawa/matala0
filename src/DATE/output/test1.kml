@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name><![CDATA[CarDV-WIFI89e5]]></name>
+<description><![CDATA[MAC: <b>44:33:4c:20:80:9c</b><br/>AuthMode:<b>[WPA2-PSK-CCMP][WPS][ESS]</b><br/>RSSI:<b>-96</b><br/>Channel:<b>11</b><br/>First seen:<b>30/10/2017 20:29</b><br/>]]></description>
+<Point><coordinates>34.81197963,32.16030835</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Bezeq_WiFi]]></name>
+<description><![CDATA[MAC: <b>48:ee:0c:3e:8c:e0</b><br/>AuthMode:<b>[ESS]</b><br/>RSSI:<b>-96</b><br/>Channel:<b>9</b><br/>First seen:<b>28/10/2017 20:30</b><br/>]]></description>
+<Point><coordinates>34.80946799,32.16174181</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Bezeq_WiFi]]></name>
+<description><![CDATA[MAC: <b>48:ee:0c:3e:8c:e0</b><br/>AuthMode:<b>[ESS]</b><br/>RSSI:<b>-96</b><br/>Channel:<b>9</b><br/>First seen:<b>28/10/2017 20:30</b><br/>]]></description>
+<Point><coordinates>34.81006761,32.16282313</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Itaythepro1_2.4]]></name>
+<description><![CDATA[MAC: <b>ec:08:6b:68:02:77</b><br/>AuthMode:<b>[WPA2-PSK-CCMP+TKIP][WPS][ESS]</b><br/>RSSI:<b>-95</b><br/>Channel:<b>1</b><br/>First seen:<b>28/10/2017 20:11</b><br/>]]></description>
+<Point><coordinates>34.87318999,32.09097213</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Itaythepro1_2.4]]></name>
+<description><![CDATA[MAC: <b>ec:08:6b:68:02:77</b><br/>AuthMode:<b>[WPA2-PSK-CCMP+TKIP][WPS][ESS]</b><br/>RSSI:<b>-95</b><br/>Channel:<b>1</b><br/>First seen:<b>28/10/2017 20:11</b><br/>]]></description>
+<Point><coordinates>34.87198823,32.09106638</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Itaythepro1_2.4]]></name>
+<description><![CDATA[MAC: <b>ec:08:6b:68:02:77</b><br/>AuthMode:<b>[WPA2-PSK-CCMP+TKIP][WPS][ESS]</b><br/>RSSI:<b>-95</b><br/>Channel:<b>1</b><br/>First seen:<b>28/10/2017 20:11</b><br/>]]></description>
+<Point><coordinates>34.87098609,32.09118585</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Itaythepro1_2.4]]></name>
+<description><![CDATA[MAC: <b>ec:08:6b:68:02:77</b><br/>AuthMode:<b>[WPA2-PSK-CCMP+TKIP][WPS][ESS]</b><br/>RSSI:<b>-95</b><br/>Channel:<b>1</b><br/>First seen:<b>28/10/2017 20:12</b><br/>]]></description>
+<Point><coordinates>34.86988774,32.09129876</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[HOTBOX-5890]]></name>
+<description><![CDATA[MAC: <b>6c:2e:85:fe:b6:d1</b><br/>AuthMode:<b>[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]</b><br/>RSSI:<b>-94</b><br/>Channel:<b>11</b><br/>First seen:<b>28/10/2017 20:11</b><br/>]]></description>
+<Point><coordinates>34.8751963,32.09076483</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[HOTBOX-5890]]></name>
+<description><![CDATA[MAC: <b>6c:2e:85:fe:b6:d1</b><br/>AuthMode:<b>[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]</b><br/>RSSI:<b>-94</b><br/>Channel:<b>11</b><br/>First seen:<b>28/10/2017 20:11</b><br/>]]></description>
+<Point><coordinates>34.87407499,32.0908967</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[HOTBOX-5890]]></name>
+<description><![CDATA[MAC: <b>6c:2e:85:fe:b6:d1</b><br/>AuthMode:<b>[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]</b><br/>RSSI:<b>-94</b><br/>Channel:<b>11</b><br/>First seen:<b>28/10/2017 20:11</b><br/>]]></description>
+<Point><coordinates>34.87301859,32.09098162</coordinates></Point>
+</Placemark>
+</Folder></Document></kml>
